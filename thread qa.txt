@@ -1,7 +1,10 @@
-Welcome 
+Read as much as possible and revise Welcome 
 today is 24.05.2017
 Git second class about the master branching
 
 
 Regarding the new branch
 Master and branch
+
+Changes between the Last line and first
+ 
