@@ -1,3 +1,7 @@
 Welcome 
 today is 24.05.2017
 Git second class about the master branching
+
+
+Regarding the new branch
+Master and branch
